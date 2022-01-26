@@ -1,0 +1,18 @@
+{
+    "name": "wooletthedevsout/dummy-content",
+    "description": "Generates dummy content for Woocommerce, including products, orders, customers and more.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "geral@meuppt.pt"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wooletthedevsout\\Dummy\\Content\\": "src/"
+        }
+    }
+}
